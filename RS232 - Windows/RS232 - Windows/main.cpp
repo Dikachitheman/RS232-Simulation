@@ -1,7 +1,3 @@
-/* main.cpp - Client for the Tx/Rx Program
- * Author: Michael A. Galle
- *
- */
 
 #include <Windows.h>    
 #include <stdlib.h>
