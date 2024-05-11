@@ -1,7 +1,4 @@
-/* RS232Comm.cpp - Implementation for the RS232 communications module
- * By: Michael A. Galle
- *
- */
+
 #include <Windows.h>    // Includes the functions for serial communication via RS232
 #include <stdlib.h>
 #include <stdio.h>
